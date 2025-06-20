@@ -18,7 +18,7 @@ Developed by [yodel](htpps://github.com/theyodel)
 
 ### The pack includes:
 - VTB, Sber, Alfabank, Genbank, RNKB cards
-- Russian Rubles (banknotes in denominations of 1, 2, 5, 10; banknotes in denominations of 5, 10, 50, 100, 200, 500, 1000, 2000, 5000)
+- Russian Rubles (coins in denominations of 1, 2, 5, 10; banknotes in denominations of 5, 10, 50, 100, 200, 500, 1000, 2000, 5000)
 
 ## IMPORTANT! 
 - The photo of the cards does not have valid data
