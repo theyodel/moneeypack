@@ -1,4 +1,4 @@
-# Money Pack for Minecraft
+# Russian Money TexturePack for Minecraft
 Developed by [yodel](htpps://github.com/theyodel)
 
 ### 💙 При публикации указывайте первоисточник: [yodel](htpps://github.com/theyodel) ( htpps://github.com/theyodel )
