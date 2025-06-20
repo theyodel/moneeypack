@@ -13,6 +13,7 @@ Developed by [yodel](htpps://github.com/theyodel)
 - Запрещается использование ради нарушения Конституции РФ и дрругих законов и законодательных актов.
 
 <hr />
+
 ### 💙 When publishing, specify the original source: [yodel](htpps://github.com/theyodel) ( htpps://github.com/theyodel )
 
 ### The pack includes:
