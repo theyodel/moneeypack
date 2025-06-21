@@ -23,6 +23,6 @@ Developed by [yodel](htpps://github.com/theyodel)
 
 ## IMPORTANT! 
 - The photo of the cards does not have valid data
-- The banknotes were taken from the official website of the [Central Bank of the Russian Federation](https://cbr.ru/cash_circulation/banknotes/5000rub /)
+- The banknotes were taken from the official website of the [Central Bank of the Russian Federation](https://cbr.ru/cash_circulation/banknotes/5000rub)
 - It is prohibited to use it for the purpose of violating the Constitution of the Russian Federation and other laws and legislative acts.
 - When publishing, specify the original source: [yodel](htpps://github.com/theyodel) ( htpps://github.com/theyodel )
